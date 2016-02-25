@@ -1,4 +1,4 @@
-# meteor-dapp-boardroom
+# GuildSkrypt-Boardroom
 
 Welcome to the alpha version of BoardRoom, a blockchain governance dApp.
 
@@ -12,7 +12,7 @@ http://meteor-dapp-boardroom.meteor.com
 
 Clone this repo
 
-    $ git clone http://github.com/web3-gov/meteor-dapp-boardroom
+    $ git clone http://github.com/TechEnterprises/GuildSkrypt-Boardroom
     
 Create an account with geth (create a passphrase):
 
@@ -24,7 +24,7 @@ Start a local geth node instace (then hit 'enter' to promt passphrase input):
     
 Start the app using BoardRoom
 
-    $ cd meteor-dapp-boardroom/app
+    $ cd GuildSkrypt/Boardroom/app
     $ meteor
     
 # Todo
