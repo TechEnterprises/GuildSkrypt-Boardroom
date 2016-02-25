@@ -2,7 +2,7 @@
 
 Welcome to the alpha version of BoardRoom, a blockchain governance dApp.
 
-# Alpha
+# Pre-Alpha
 
 http://meteor-dapp-boardroom.meteor.com
 
